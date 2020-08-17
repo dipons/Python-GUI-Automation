@@ -1,2 +1,2 @@
 # Python-GUI-Automation
-WordWeb Dictionary Automation using PywinAuto and PyAutoGui
+WordWeb Dictionary Automation using PywinAuto and PyAutoGui.
